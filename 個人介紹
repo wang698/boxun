@@ -1,0 +1,87 @@
+<title>自我介紹</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="assets/css/main.css">
+	</head>
+	<body class="">
+
+		<!-- Wrapper -->
+			<div id="Wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<span class="avatar"><img src="images/avtar.jpg" alt=""></span>
+						<h1>我是 <strong>王柏勲</strong>, 一名來自台南的學生 <a href="http://www.tnssh.tn.edu.tw/">台南二中</a><br>
+						閒暇時喜歡玩桌遊與魔術，愛好大自然並熱愛生命中的每一刻。</h1>
+						<ul class="icons">
+							<li><a href="https://www.facebook.com/uehebjspakndnfj/" class="icon style2 fa-facebook"><span class="label">Facebook</span></a></li>
+							<li><a href="https://www.instagram.com/_oii14/" class="icon style2 fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="https://www.youtube.com/channel/UCLAfHODGJsqrobuwJLzkmVw?view_as=subscriber" class="icon style2 fa-youtube"><span class="label">youtube</span></a></li>
+						</ul>
+					</header>
+
+				<!-- Main -->
+					<section id="main">
+
+						<!-- Thumbnails -->
+							<section class="thumbnails">
+								<div>
+										<img src="images/thumbs/小丑1.jpg" alt="">
+										<h3>素描-小丑<br>
+										獻給最喜歡的演員希斯萊傑</h3>
+									</a>
+										<img src="images/thumbs/太陽2.jpg" alt="">
+										<h3>拍攝<br>
+										金山的日落讓人非常愜意</h3>
+									</a>
+										<img src="images/thumbs/36.jpg" alt="">
+										<h3>拍攝<br>
+										準備起飛的鳥</h3>
+									</a>
+								</div>
+								<div>
+										<img src="images/thumbs/素描3.jpg" alt="">
+										<h3>素描-哥吉拉與基多拉<br>
+										最喜歡的一部電影</h3>
+									</a>
+										<img src="images/thumbs/威尼斯.jpg" alt="">
+										<h3>旅行-義大利威尼斯<br>
+										坐船遊威尼斯</h3>
+									</a>
+										<img src="images/thumbs/北海道.jpg" alt="">
+										<h3>旅行-日本北海道<br>
+										渡邊牧場擠牛乳初體驗</h3>
+									</a>
+								</div>
+								<div>
+										<img src="images/thumbs/新年快樂.jpg" alt="">
+										<h3>photoshop<br>
+										第一次製作新年卡片</h3>
+									</a>
+										<img src="images/thumbs/96.jpg" alt="">
+										<h3>台南天空-日暈<br>
+										偶然一次抬頭見到日暈</h3>
+									</a>
+										<img src="images/thumbs/照片5.jpg" alt="">
+										<h3>台南天空-月光<br>
+										我喜歡一個人欣賞月光</h3>
+									</a>
+								</div>
+							</section>
+
+					</section>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<p>© Untitled. All rights reserved. Design: <a href="http://templated.co">TEMPLATED</a>. Demo Images: <a href="http://unsplash.com">Unsplash</a>.</p>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	
